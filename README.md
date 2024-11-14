@@ -3,6 +3,10 @@
 #### <a name="intro">:rocket: This repository is the official implementation of Residual Denoising Diffusion Models.
 
 ## <a name="todo"></a>:sunny: Overview
+<p align="center">
+    <img src="assets/overall-gencompression.png" style="border-radius: 0px"><br>
+</p>
+ 
 
 
 ## <a name="todo"></a>:memo: TODO
@@ -20,4 +24,7 @@
 ## <a name="quantitative_performance"></a>:crossed_swords: Quantitative Performance
 <p align="center">
     <img src="assets/main_results.png" style="border-radius: 0px"><br>
+</p>
+<p align="center">
+    <img src="assets/primary_image.png" style="border-radius: 0px"><br>
 </p>
