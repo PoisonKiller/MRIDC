@@ -10,21 +10,24 @@
 
 
 ## <a name="todo"></a>:memo: TODO
-- [ ] Release code
+- [ ] Release inference code
+- [ ] Release training code
 - [ ] Release pretrained models
 
 ## <a name="requirements"></a>:eyes: Visualization results
 <p align="center">
-    <img src="assets/maskrate_4283.png" style="border-radius: 0px"><br>
+    <img src="assets/primary_image.png" style="border-radius: 0px"><br>
+</p>
+
+## <a name="requirements"></a>:eyes: Ablation Study results
+<p align="center">
+    <img src="assets/abla_module.png" style="border-radius: 0px"><br>
 </p>
 <p align="center">
-    <img src="assets/masktype_4283.png" style="border-radius: 0px"><br>
+    <img src="assets/abla_mask.png" style="border-radius: 0px"><br>
 </p>
 
 ## <a name="quantitative_performance"></a>:crossed_swords: Quantitative Performance
 <p align="center">
-    <img src="assets/main_results.png" style="border-radius: 0px"><br>
-</p>
-<p align="center">
-    <img src="assets/primary_image.png" style="border-radius: 0px"><br>
+    <img src="assets/main results.png" style="border-radius: 0px"><br>
 </p>
